@@ -1,3 +1,5 @@
+Add Liquid Syntax support to your Codemirror editor
+
 ### Install with Bower
 
 `bower i codemirror-liquid-multiplex`
