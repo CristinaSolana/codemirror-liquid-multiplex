@@ -1,0 +1,16 @@
+{
+  "name": "codemirror-liquid-multiplex",
+  "version": "1.0.0",
+  "homepage": "https://github.com/CristinaSolana/codemirror-liquid-multiplex",
+  "authors": [
+    "Cristina Solana <cs@nightshiftcreative.com>"
+  ],
+  "description": "Codemirror Liquid mode / multiplex",
+  "main": "liquid.js",
+  "keywords": [
+    "codemirror",
+    "liquid",
+    "mode"
+  ],
+  "license": "MIT"
+}
