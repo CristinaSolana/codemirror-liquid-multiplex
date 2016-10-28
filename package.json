@@ -1,0 +1,24 @@
+{
+  "name": "codemirror-liquid-multiplex",
+  "version": "1.0.0",
+  "description": "Codemirror Liquid Syntax mode / multiplex",
+  "main": "liquid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristinaSolana/codemirror-liquid-multiplex.git"
+  },
+  "keywords": [
+    "codemirror",
+    "liquid",
+    "mode"
+  ],
+  "author": "Cristina Solana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CristinaSolana/codemirror-liquid-multiplex/issues"
+  },
+  "homepage": "https://github.com/CristinaSolana/codemirror-liquid-multiplex#readme"
+}
