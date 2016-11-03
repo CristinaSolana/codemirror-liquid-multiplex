@@ -1,6 +1,6 @@
 {
   "name": "codemirror-liquid-multiplex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Codemirror Liquid mode / multiplex for Liquid Syntax highlighting",
   "main": "liquid.js",
   "scripts": {
