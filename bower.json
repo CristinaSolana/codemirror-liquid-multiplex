@@ -1,11 +1,11 @@
 {
   "name": "codemirror-liquid-multiplex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/CristinaSolana/codemirror-liquid-multiplex",
   "authors": [
     "Cristina Solana <cs@nightshiftcreative.com>"
   ],
-  "description": "Codemirror Liquid mode / multiplex",
+  "description": "Codemirror Liquid mode / multiplex for Liquid Syntax highlighting",
   "main": "liquid.js",
   "keywords": [
     "codemirror",
