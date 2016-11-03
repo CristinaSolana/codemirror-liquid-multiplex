@@ -1,7 +1,7 @@
 {
   "name": "codemirror-liquid-multiplex",
   "version": "1.0.1",
-  "description": "Codemirror Liquid Syntax mode / multiplex",
+  "description": "Codemirror Liquid mode / multiplex for Liquid Syntax highlighting",
   "main": "liquid.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
